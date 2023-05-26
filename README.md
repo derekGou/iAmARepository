@@ -1,3 +1,3 @@
 # iAmARepository
-This is a repository
+This is a repository. 
 Hello!
